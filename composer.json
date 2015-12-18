@@ -9,6 +9,6 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": {"Filter//": ""}
+        "psr-4": {"Filter\\": ""}
     }
 }
