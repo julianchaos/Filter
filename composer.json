@@ -1,0 +1,11 @@
+{
+    "name": "ndrade/filter",
+    "description": "Funções do filter (http://php.net/manual/en/book.filter.php) encapsuladas.",
+    "authors": [
+        {
+            "name": "Julian Andrade",
+            "email": "julian@ndrade.com.br"
+        }
+    ],
+    "require": {}
+}
